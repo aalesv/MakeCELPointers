@@ -88,12 +88,12 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0026) OSV SOLENOID VALVE CIRCUIT RANGE PERF B1" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0026) OSV SOLENOID VALVE CIRCUIT RANGE/PERF B1" sizey="1" type="Switch">
 			<description>INTAKE VALVE CONTROL SOLENOID CIRCUIT RANGE/PERFORMANCE (BANK 1). To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0028) OSV SOLENOID VALVE CIRCUIT RANGE PERF B2" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0028) OSV SOLENOID VALVE CIRCUIT RANGE/PERF B2" sizey="1" type="Switch">
 			<description>INTAKE VALVE CONTROL SOLENOID CIRCUIT RANGE/PERFORMANCE (BANK 2). To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -133,7 +133,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0050) HO2S CIRCUIT RANGE PERF B2 S1" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0050) HO2S CIRCUIT RANGE/PERF B2 S1" sizey="1" type="Switch">
 			<description>HO2S HEATER CONTROL CIRCUIT RANGE/PERFORMANCE (BANK 2, SENSOR 1). To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -258,7 +258,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0121) TPS RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0121) TPS RANGE/PERF" sizey="1" type="Switch">
 			<description>THROTTLE POSITION SENSOR CIRCUIT RANGE/PERFORMANCE PROBLEM (HIGH INPUT). To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -288,7 +288,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0129) ATMOS. PRESSURE SENSOR RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0129) ATMOS. PRESSURE SENSOR RANGE/PERF" sizey="1" type="Switch">
 			<description>ATMOSPHERIC PRESSURE SENSOR CIRCUIT RANGE/PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -453,7 +453,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0181) FUEL TEMP SENSOR A RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0181) FUEL TEMP SENSOR A RANGE/PERF" sizey="1" type="Switch">
 			<description>FUEL TEMPERATURE SENSOR 'A' CIRCUIT RANGE/PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -533,7 +533,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0244) WASTEGATE SOLENOID A RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0244) WASTEGATE SOLENOID A RANGE/PERF" sizey="1" type="Switch">
 			<description>WASTEGATE SOLENOID 'A' RANGE/PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1038,7 +1038,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0638) THROTTLE ACTUATOR RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0638) THROTTLE ACTUATOR RANGE/PERF" sizey="1" type="Switch">
 			<description>THROTTLE ACTUATOR CONTROL RANGE/PERFORMANCE (BANK 1). To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1083,7 +1083,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0716) TORQUE CONVERTER TURBINE SPEED RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0716) TORQUE CONVERTER TURBINE SPEED RANGE/PERF" sizey="1" type="Switch">
 			<description>TORQUE CONVERTER TURBINE SPEED SIGNAL CIRCUIT RANGE/PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1093,7 +1093,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0726) ENGINE SPEED INPUT RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0726) ENGINE SPEED INPUT RANGE/PERF" sizey="1" type="Switch">
 			<description>ENGINE SPEED INPUT CIRCUIT RANGE/PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1173,7 +1173,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P0864) TCM COMMUNICATION RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P0864) TCM COMMUNICATION RANGE/PERF" sizey="1" type="Switch">
 			<description>TCM COMMUNICATION CIRCUIT RANGE/PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1278,22 +1278,22 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P1152) FRONT O2 SENSOR RANGE PERF LOW B1 S1" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P1152) FRONT O2 SENSOR RANGE/PERF LOW B1 S1" sizey="1" type="Switch">
 			<description>FRONT O2 SENSOR CIRCUIT RANGE/PERFORMANCE (LOW) (BANK1 SENSOR1). To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P1153) FRONT O2 SENSOR RANGE PERF HIGH B1 S1" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P1153) FRONT O2 SENSOR RANGE/PERF HIGH B1 S1" sizey="1" type="Switch">
 			<description>FRONT O2 SENSOR CIRCUIT RANGE/PERFORMANCE (HIGH) (BANK1 SENSOR1). To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P1154) O2 SENSOR RANGE PERF LOW B2 S1" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P1154) O2 SENSOR RANGE/PERF LOW B2 S1" sizey="1" type="Switch">
 			<description>O2 SENSOR CIRCUIT RANGE/PERFORMANCE (LOW) BANK 2 SENSOR 1. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P1155) O2 SENSOR RANGE PERF HIGH B2 S1" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P1155) O2 SENSOR RANGE/PERF HIGH B2 S1" sizey="1" type="Switch">
 			<description>O2 SENSOR CIRCUIT RANGE/PERFORMANCE (HIGH) BANK 2 SENSOR 1. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1413,7 +1413,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P1448) FUEL TANK SENSOR CONTROL RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P1448) FUEL TANK SENSOR CONTROL RANGE/PERF" sizey="1" type="Switch">
 			<description>FUEL TANK SENSOR CONTROL VALVE RANGE/PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1798,7 +1798,7 @@
 				<state data="01" name="on"/>
 				<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P2227) BARO. PRESSURE CIRCUIT RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P2227) BARO. PRESSURE CIRCUIT RANGE/PERF" sizey="1" type="Switch">
 			<description>BAROMETRIC PRESSURE CIRCUIT RANGE/ PERFORMANCE. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
@@ -1853,8 +1853,8 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P2404) EVAP LEAK DETECTION PUMP SENSE CIRCUIT RANGE PERF" sizey="1" type="Switch">
-			<description>EVAP LEAK DETECTION PUMP SENSE CIRCUIT RANGE PERF. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
+		<table category="Diagnostic Trouble Codes" name="(P2404) EVAP LEAK DETECTION PUMP SENSE CIRCUIT RANGE/PERF" sizey="1" type="Switch">
+			<description>EVAP LEAK DETECTION PUMP SENSE CIRCUIT RANGE/PERF. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
@@ -1868,7 +1868,7 @@
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
 		</table>
-		<table category="Diagnostic Trouble Codes" name="(P2431) SECONDARY AIR PUMP CIRCUIT RANGE PERF" sizey="1" type="Switch">
+		<table category="Diagnostic Trouble Codes" name="(P2431) SECONDARY AIR PUMP CIRCUIT RANGE/PERF" sizey="1" type="Switch">
 			<description>SECONDARY AIR INJECTION SYSTEM AIR FLOW/PRESSURE SENSOR CIRCUIT RANGE/PERFORMANCE BANK 1. To disable this DTC, make sure the box above is unchecked. Off-road use only.</description>
 			<state data="01" name="on"/>
 			<state data="00" name="off"/>
